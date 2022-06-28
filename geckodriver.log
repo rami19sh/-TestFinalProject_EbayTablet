@@ -1,0 +1,600 @@
+1656322989708	geckodriver	INFO	Listening on 127.0.0.1:50931
+1656322992745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=414" "--height=896" "--remote-debugging-port" "50932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilebEvYb5"
+1656322993145	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50932
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilebEvYb5\\search.json.mozlz4", (void 0)))
+1656322994725	Marionette	INFO	Listening on port 50951
+DevTools listening on ws://localhost:50932/devtools/browser/d1230a3d-88c5-4d5b-9064-660606ec450f
+Read port: 50951
+1656322994776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656322996304	Marionette	INFO	Stopped listening on port 50951
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656325855451	geckodriver	INFO	Listening on 127.0.0.1:56943
+1656325858458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=414" "--height=896" "--remote-debugging-port" "56944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilekXOd8M"
+1656325858772	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56944
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilekXOd8M\\search.json.mozlz4", (void 0)))
+1656325860223	Marionette	INFO	Listening on port 56962
+DevTools listening on ws://localhost:56944/devtools/browser/cd619e18-2014-43ae-9cfd-aeb7a0bfcb61
+Read port: 56962
+1656325860296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656325861959	Marionette	INFO	Stopped listening on port 56962
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656350833514	geckodriver	INFO	Listening on 127.0.0.1:52985
+1656350836566	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=834" "--height=1194" "--remote-debugging-port" "52986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileziCEQq"
+1656350837582	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52986
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileziCEQq\\search.json.mozlz4", (void 0)))
+1656350840192	Marionette	INFO	Listening on port 53009
+Read port: 53009
+1656350840229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52986/devtools/browser/bc41784c-046f-4571-a361-47b79c94bd1e
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656350847372	Marionette	INFO	Stopped listening on port 53009
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656350945183	geckodriver	INFO	Listening on 127.0.0.1:53070
+1656350948189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=834" "--height=1194" "--remote-debugging-port" "53071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile2bqs1X"
+1656350948705	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53071
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile2bqs1X\\search.json.mozlz4", (void 0)))
+1656350950877	Marionette	INFO	Listening on port 53092
+Read port: 53092
+1656350950930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53071/devtools/browser/94495979-f08f-4206-8078-62caf29b8fb5
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656350957581	Marionette	INFO	Stopped listening on port 53092
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656351037503	geckodriver	INFO	Listening on 127.0.0.1:53144
+1656351040525	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile7F1uiB"
+1656351040976	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53145
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile7F1uiB\\search.json.mozlz4", (void 0)))
+1656351043160	Marionette	INFO	Listening on port 53165
+DevTools listening on ws://localhost:53145/devtools/browser/4d1214d3-8825-469c-b527-14a0ee69bbe1
+Read port: 53165
+1656351043272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656351049668	Marionette	INFO	Stopped listening on port 53165
+[Parent 9848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656351119460	geckodriver	INFO	Listening on 127.0.0.1:53363
+1656351122477	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilelaYZTP"
+1656351122951	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53364
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilelaYZTP\\search.json.mozlz4", (void 0)))
+1656351125460	Marionette	INFO	Listening on port 53385
+DevTools listening on ws://localhost:53364/devtools/browser/62be6773-9c90-4516-8e02-f3aac1e91c31
+Read port: 53385
+1656351125532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656351131230	Marionette	INFO	Stopped listening on port 53385
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656351138228	geckodriver	INFO	Listening on 127.0.0.1:53435
+1656351141256	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileMfCS36"
+1656351141721	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53436
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileMfCS36\\search.json.mozlz4", (void 0)))
+1656351144140	Marionette	INFO	Listening on port 53459
+DevTools listening on ws://localhost:53436/devtools/browser/a8d161aa-0aa5-4f3a-83e2-4bccd20256e9
+Read port: 53459
+1656351144205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656351150586	Marionette	INFO	Stopped listening on port 53459
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656351168288	geckodriver	INFO	Listening on 127.0.0.1:53506
+1656351171300	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileXIFYf3"
+1656351171762	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53507
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileXIFYf3\\search.json.mozlz4", (void 0)))
+1656351174264	Marionette	INFO	Listening on port 53529
+Read port: 53529
+DevTools listening on ws://localhost:53507/devtools/browser/f3a40b96-b3fc-4b15-8deb-ede79e923f27
+1656351174351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/3t18_xi7-xcAn6br?d9f20d072a99a407=XNjBaucG8-V_BnafqjZ-xqVy0Prd5Sysc6PcdlxhAJtu1Gd38LBGSmODLhgd-JS51eepgHmSElSiQs0x85k7p_5ytqsIPbmLgFHsN_WHMg__XjSONWND45RofpBR2n3PIVtRDx639GmIIVULmBFGqMI0RJQ8k8oNvcwb8BwIxr5ln7Mh52vqxO_zysXGAW7qv0VXNG4DMOO2LJdBXN4grA8&jb=333a242e68716d773d5f696e646f7573266873673557616c666d757324687b60753f44617067646d78, line 212: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/3t18_xi7-xcAn6br?d9f20d072a99a407=XNjBaucG8-V_BnafqjZ-xqVy0Prd5Sysc6PcdlxhAJtu1Gd38LBGSmODLhgd-JS51eepgHmSElSiQs0x85k7p_5ytqsIPbmLgFHsN_WHMg__XjSONWND45RofpBR2n3PIVtRDx639GmIIVULmBFGqMI0RJQ8k8oNvcwb8BwIxr5ln7Mh52vqxO_zysXGAW7qv0VXNG4DMOO2LJdBXN4grA8&jb=333a242e68716d773d5f696e646f7573266873673557616c666d757324687b60753f44617067646d78, line 212: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656351211313	Marionette	INFO	Stopped listening on port 53529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656351249090	geckodriver	INFO	Listening on 127.0.0.1:53665
+1656351252101	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilefWI2Mk"
+1656351252552	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53666
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilefWI2Mk\\search.json.mozlz4", (void 0)))
+1656351254704	Marionette	INFO	Listening on port 53687
+DevTools listening on ws://localhost:53666/devtools/browser/5901aa70-6625-4110-8bd2-6ed39c50a691
+Read port: 53687
+1656351254752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/vWtbRs8iVTXqiMtT?ea20892d62a8dd63=lLbzYgGM5ng8teSd2ZNZgvHud98XWzF6DheEVs0l8ZuSi8RtDp4L55Qm0ePrk-58_f9ncTy4_iI135M1KPbdrRmGJaxRma9qGYDf0Ff6v2EYWZ9BTDiLXeKYyOshJQ7F3-XRskCaYRK1UxgiPFk5Ms9UkOwjh2_3RvpT-04qnmWnB32yOpNV1qDGevIt40noLXl8yGCPIvCi1G4WCioAhO0&jb=333a242668736d753d5f696e646f77732e6a71673557616c666d757124687362753f44697065646f78, line 198: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/vWtbRs8iVTXqiMtT?ea20892d62a8dd63=lLbzYgGM5ng8teSd2ZNZgvHud98XWzF6DheEVs0l8ZuSi8RtDp4L55Qm0ePrk-58_f9ncTy4_iI135M1KPbdrRmGJaxRma9qGYDf0Ff6v2EYWZ9BTDiLXeKYyOshJQ7F3-XRskCaYRK1UxgiPFk5Ms9UkOwjh2_3RvpT-04qnmWnB32yOpNV1qDGevIt40noLXl8yGCPIvCi1G4WCioAhO0&jb=333a242668736d753d5f696e646f77732e6a71673557616c666d757124687362753f44697065646f78, line 198: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/MguQHqeCtEtHDA9U?d82295b21fc0fc0d=Yujixqwd_igbAtKMZhZlNya56q2kLXMlfHXf-SfJ-ft4qIIfkBjUb3-VDhvMRGF6YmkcP7YWwlD38PjOefvH1eYWixYzU6NunERoncnfN_2zMXcR4AEdJJVcA1aH3SgCkjLiiyfr7VYJw-YqcR3nkht0Vp2TLzbllc_nk2vHRRSkOQ-7fDof22h8jUev4VoRQbKFySqBCP2vw6c2e_DE_ec&jb=333a242662736f773d5f696e646f75712468736d3f576966666d7571246a7160753f44697a65666d78, line 808: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/MguQHqeCtEtHDA9U?d82295b21fc0fc0d=Yujixqwd_igbAtKMZhZlNya56q2kLXMlfHXf-SfJ-ft4qIIfkBjUb3-VDhvMRGF6YmkcP7YWwlD38PjOefvH1eYWixYzU6NunERoncnfN_2zMXcR4AEdJJVcA1aH3SgCkjLiiyfr7VYJw-YqcR3nkht0Vp2TLzbllc_nk2vHRRSkOQ-7fDof22h8jUev4VoRQbKFySqBCP2vw6c2e_DE_ec&jb=333a242662736f773d5f696e646f75712468736d3f576966666d7571246a7160753f44697a65666d78, line 808: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656351305765	Marionette	INFO	Stopped listening on port 53687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656351336443	geckodriver	INFO	Listening on 127.0.0.1:53817
+1656351339452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileoSgWvm"
+1656351339898	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53818
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileoSgWvm\\search.json.mozlz4", (void 0)))
+1656351342061	Marionette	INFO	Listening on port 53839
+DevTools listening on ws://localhost:53818/devtools/browser/5cf121c3-f7a9-4bdc-ab99-7fc93d3994f7
+Read port: 53839
+1656351342104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656351342247	Marionette	INFO	Stopped listening on port 53839
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1656351378728	geckodriver	INFO	Listening on 127.0.0.1:53843
+1656351381740	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileSlaVBF"
+1656351382187	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53844
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileSlaVBF\\search.json.mozlz4", (void 0)))
+1656351384493	Marionette	INFO	Listening on port 53866
+DevTools listening on ws://localhost:53844/devtools/browser/8d9d5c08-5c1b-4c7e-a8c5-0bb7228515aa
+Read port: 53866
+1656351384586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/Xr85uWhhr0nxLXYf?e2256211d8645e35=Gopj8IpHNOm-xP_edM-eWRHY_UnHyMIZ4tn4dtamyjGt7VwxPkb7bngMhy1Y4-FQmv6FY7Ztqxe-oJMg-7VfK1iEdcEsi8OQVNm3ZHTyG5oc7h_dWo9JOBvltyS62BW4y_2kofA-8LfmcDfQ2-aWVE_c-OE_ABuasS_hl4Tr8npyDkvEZBaBQGPoZZQVUNiaxjOgzO6__h9qacSQ5kXdio8&jb=333a242468736f753d5f696e646d7f712468716f3d57696e666d757324687162753f446b7065666f78, line 77: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/Xr85uWhhr0nxLXYf?e2256211d8645e35=Gopj8IpHNOm-xP_edM-eWRHY_UnHyMIZ4tn4dtamyjGt7VwxPkb7bngMhy1Y4-FQmv6FY7Ztqxe-oJMg-7VfK1iEdcEsi8OQVNm3ZHTyG5oc7h_dWo9JOBvltyS62BW4y_2kofA-8LfmcDfQ2-aWVE_c-OE_ABuasS_hl4Tr8npyDkvEZBaBQGPoZZQVUNiaxjOgzO6__h9qacSQ5kXdio8&jb=333a242468736f753d5f696e646d7f712468716f3d57696e666d757324687162753f446b7065666f78, line 77: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656351401253	Marionette	INFO	Stopped listening on port 53866
+1656351622061	geckodriver	INFO	Listening on 127.0.0.1:53961
+1656351625084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "53962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilexzzVuX"
+1656351625543	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53962
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilexzzVuX\\search.json.mozlz4", (void 0)))
+1656351627954	Marionette	INFO	Listening on port 53984
+DevTools listening on ws://localhost:53962/devtools/browser/d46d59a9-2017-4f52-b643-a53e53c4e223
+Read port: 53984
+1656351628018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/eHv6L02pCYUOC57R?f5837005df1759c0=06lz_J123aZ18WHpdsVzWCUxbICi9v7GrS6qIw-jkchZ23-jmRNozEZdVfamqJL3bpvtPsU7qcOPm80WeZSlkg6fHzR7pNsryxHjKqeoPImrvm708Io2-25A3kdJvZe_5ZzCaGSvKCzuvh9PGJ1MBCpKCUA0QS_DLiqadaURRr4UyTr8uUJvMxXG0arIpQ-ycCQF7bbfKclCyIJILZtx74Y&jb=333a262668716d753d5f696e646d7f73266a736d3f57696c666d7573246a7b6a753f46697067646f78, line 340: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://src.ebay-us.com/eHv6L02pCYUOC57R?f5837005df1759c0=06lz_J123aZ18WHpdsVzWCUxbICi9v7GrS6qIw-jkchZ23-jmRNozEZdVfamqJL3bpvtPsU7qcOPm80WeZSlkg6fHzR7pNsryxHjKqeoPImrvm708Io2-25A3kdJvZe_5ZzCaGSvKCzuvh9PGJ1MBCpKCUA0QS_DLiqadaURRr4UyTr8uUJvMxXG0arIpQ-ycCQF7bbfKclCyIJILZtx74Y&jb=333a262668716d753d5f696e646d7f73266a736d3f57696c666d7573246a7b6a753f46697067646f78, line 378: InvalidStateError: Permissions.query: The document is not fully active.
+JavaScript warning: https://c.paypal.com/da/r/efbv3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/j18i50HSnSorpr0f?24e0c1c7305d206b=616bb7rhHj1Yq11JVTKtzxbrsk3JXS8yCAS5dVFgd3wg3wmVnZyoQlce7aaIwTiOxMIeveK13Rak8wRUvipEJdeh-xPdvniZgS3H9tYL7TGv-bvApDZ9quI_NftIYq_fvocCr7i0C9sAN-nGIe-kqfRubKG39I772vEtMDSMdFxth8E1PhCrXTLNtaAPlQpZJ5_Ph4FTLXOAZJi5MX908pY&jb=333a26266a716f753d5f696e646d77732662736f3f576966666d75732468736a753f46697267666f78, line 264: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/j18i50HSnSorpr0f?24e0c1c7305d206b=616bb7rhHj1Yq11JVTKtzxbrsk3JXS8yCAS5dVFgd3wg3wmVnZyoQlce7aaIwTiOxMIeveK13Rak8wRUvipEJdeh-xPdvniZgS3H9tYL7TGv-bvApDZ9quI_NftIYq_fvocCr7i0C9sAN-nGIe-kqfRubKG39I772vEtMDSMdFxth8E1PhCrXTLNtaAPlQpZJ5_Ph4FTLXOAZJi5MX908pY&jb=333a26266a716f753d5f696e646d77732662736f3f576966666d75732468736a753f46697267666f78, line 264: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signin.ebay.com"
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/a6lnYvwjavU9AfRF?504b06eee2551e1c=-e3o631k5CfHHOUROxnRrFZ4LEUiCfdRejoq-_HqVGwAwdkIok50LxKlyOKUVwQMPpSmNEWnUbem0TXdM72ehdbmLI-nod3FbHXH1QXAmceXZyBK16XjoHSA14ahH_7LiHNODdxep9tuMHrbFEGWu-kMQAGREEMRLST_gdh6PjIBsvfJMLX-fYUCaNcPvHOf5EWFYLYHfVLC7gcuIrYdlHM&jb=333a262668716f773d5f696e646d77712668716d3f57696e666d7571246a7b62753f46697067666d78, line 1118: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656351669333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://src.ebay-us.com/a6lnYvwjavU9AfRF?504b06eee2551e1c=-e3o631k5CfHHOUROxnRrFZ4LEUiCfdRejoq-_HqVGwAwdkIok50LxKlyOKUVwQMPpSmNEWnUbem0TXdM72ehdbmLI-nod3FbHXH1QXAmceXZyBK16XjoHSA14ahH_7LiHNODdxep9tuMHrbFEGWu-kMQAGREEMRLST_gdh6PjIBsvfJMLX-fYUCaNcPvHOf5EWFYLYHfVLC7gcuIrYdlHM&jb=333a262668716f773d5f696e646d77712668716d3f57696e666d7571246a7b62753f46697067666d78, line 1118: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signup.ebay.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://signup.ebay.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656351683249	Marionette	INFO	Stopped listening on port 53984
+JavaScript warning: https://src.ebay-us.com/cTWh1iCuggoBWKLr?55ac26593e9da779=Y3c27Hf5FsH94tGZso-lorrqWgYh39q-qRDSvCF8rZgwv330eGuh84UPUpiUUGKQQQZgxOE4DIAYRpZxVl2UMxaSr1-UR9LGZiBqAa4n_ltqW0RS0GhAvC_Z8QWJxTgrn1qeLP7zRkDJcPTr_ckWnVlASb2Bxt2c0nEX-OSASdr2jFRweSr4pUyjjXqn0pICFAjtz9G23XbBSnsh18W2f_M&jb=333a26266a716d753d5f696e646d77732468716f3d576b6e666d757126627b62753f46697267646f78, line 62: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656352923953	geckodriver	INFO	Listening on 127.0.0.1:61385
+1656352927028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "61386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofiledSQleS"
+1656352927362	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61386
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofiledSQleS\\search.json.mozlz4", (void 0)))
+1656352928867	Marionette	INFO	Listening on port 61405
+DevTools listening on ws://localhost:61386/devtools/browser/13daa2a8-6575-4e4a-8a64-7ada513eeb93
+Read port: 61405
+1656352928935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/useronbrdexp/create_personalAccount_a_desktop.94f0f97031.js, line 72: TypeError: window.QuantumMetricAPI is not a constructor
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656352941013	Marionette	INFO	Stopped listening on port 61405
+1656353060001	geckodriver	INFO	Listening on 127.0.0.1:64926
+1656353063059	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "64927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile3kEjKZ"
+1656353063360	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64927
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile3kEjKZ\\search.json.mozlz4", (void 0)))
+1656353064783	Marionette	INFO	Listening on port 64946
+DevTools listening on ws://localhost:64927/devtools/browser/e48f9c0d-4de4-40e8-a79f-e5bf62437291
+Read port: 64946
+1656353064871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ir.ebaystatic.com/rs/c/useronbrdexp/create_personalAccount_a_desktop.94f0f97031.js, line 72: TypeError: window.QuantumMetricAPI is not a constructor
+JavaScript warning: https://src.ebay-us.com/TSrClgQTY7WKkDul?804c6fa28704c169=hxhmkRXdOTWn3KUssP7WChc0vEPeDudDMQmAccEtBlJXKUbZhFcekJdZeTt-vUmuFX3a1LAVLH6-sq_UhWZUsXUOkXmh7vnZW2_HUlju0iwVatxB_B7ur_xKkQJO1rh0bH1w1guXYCCmpv9vWvyqb7g6Vf8BxHuDYCplCL3f9fJyUWCy4tnDIYKX4WbWBaIpWUQ4eFcvY1B6iAtdChY72ro&jb=333a262468716f7d3d5f696e646d7573266a716d3d556b6c666d757126627b62753f466b7067666778, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/TSrClgQTY7WKkDul?804c6fa28704c169=hxhmkRXdOTWn3KUssP7WChc0vEPeDudDMQmAccEtBlJXKUbZhFcekJdZeTt-vUmuFX3a1LAVLH6-sq_UhWZUsXUOkXmh7vnZW2_HUlju0iwVatxB_B7ur_xKkQJO1rh0bH1w1guXYCCmpv9vWvyqb7g6Vf8BxHuDYCplCL3f9fJyUWCy4tnDIYKX4WbWBaIpWUQ4eFcvY1B6iAtdChY72ro&jb=333a262468716f7d3d5f696e646d7573266a716d3d556b6c666d757126627b62753f466b7067666778, line 219: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353084565	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656353094886	Marionette	INFO	Stopped listening on port 64946
+1656353115464	geckodriver	INFO	Listening on 127.0.0.1:65052
+1656353118525	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileFVYtUD"
+1656353118835	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65053
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileFVYtUD\\search.json.mozlz4", (void 0)))
+1656353120265	Marionette	INFO	Listening on port 65074
+Read port: 65074
+1656353120293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65053/devtools/browser/724d859f-9f99-42fa-9180-f17d208e1d93
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ir.ebaystatic.com/rs/c/useronbrdexp/create_personalAccount_a_desktop.94f0f97031.js, line 72: TypeError: window.QuantumMetricAPI is not a constructor
+1656353134971	Marionette	INFO	Stopped listening on port 65074
+[Parent 1624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1656353141617	geckodriver	INFO	Listening on 127.0.0.1:65146
+1656353144684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilegQwySp"
+1656353144986	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65147
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilegQwySp\\search.json.mozlz4", (void 0)))
+1656353146409	Marionette	INFO	Listening on port 65165
+Read port: 65165
+1656353146425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65147/devtools/browser/fd7671ba-d3ed-4c33-ac65-28f43c4e0d99
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/-NDFt1pXCNjgAA4I?a383f7e4fdbccd06=p1VnYPStgU9-NPX0-FOH65Y540WhTdKE80vMoRLnXTfiCxwwsR3z8I9b3mQv_dXL1Yu4V3iMJFo3djKUrQTpMnKpdr67NyO_e7MFJse_W4X20aP_2r1lyVbRd1AdL6JaYmxkXNr371TubpeED7E7OVmsuYbRgedHlWrJLXzx_1mtsB_PIJb1Iw-GAjmu07MHdGerN5iUMGdKo7kVVSO2Cm8&jb=333a262462736d773d5f696e646f7f732468736f3d576b6c666d75732e627162753f466b7a65646d78, line 287: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/-NDFt1pXCNjgAA4I?a383f7e4fdbccd06=p1VnYPStgU9-NPX0-FOH65Y540WhTdKE80vMoRLnXTfiCxwwsR3z8I9b3mQv_dXL1Yu4V3iMJFo3djKUrQTpMnKpdr67NyO_e7MFJse_W4X20aP_2r1lyVbRd1AdL6JaYmxkXNr371TubpeED7E7OVmsuYbRgedHlWrJLXzx_1mtsB_PIJb1Iw-GAjmu07MHdGerN5iUMGdKo7kVVSO2Cm8&jb=333a262462736d773d5f696e646f7f732468736f3d576b6c666d75732e627162753f466b7a65646d78, line 287: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353171972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656353182277	Marionette	INFO	Stopped listening on port 65165
+1656353412504	geckodriver	INFO	Listening on 127.0.0.1:65478
+1656353415537	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile6SghwB"
+1656353415865	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65479
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile6SghwB\\search.json.mozlz4", (void 0)))
+1656353417396	Marionette	INFO	Listening on port 65497
+DevTools listening on ws://localhost:65479/devtools/browser/94356f05-1826-4b0d-aa0b-468623c54ad3
+Read port: 65497
+1656353417506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656353437416	geckodriver	INFO	Listening on 127.0.0.1:65527
+1656353440440	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile7VuoPt"
+1656353440735	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65528
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile7VuoPt\\search.json.mozlz4", (void 0)))
+1656353442162	Marionette	INFO	Listening on port 49164
+Read port: 49164
+DevTools listening on ws://localhost:65528/devtools/browser/8b8d4aae-2311-4de6-a2df-a2f92a6eb686
+1656353442244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://adf0901f1861.cdn4.forter.com/sn/adf0901f1861/sha256-aPvRLYGFyaXJHBxFlpFDAGdBiC1D5A7w925KKSssW%2Bo%3D/script.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/5n_yXqCctYaJdQ-u?85cb55aab00e308e=205bVrGJloKr9ivnOUk8LER7qQPMNGdDkKUl9C5AgP-zXPs5R8qGDp-meT_6b6jCl56zugYq70L71hFi7gz881GL9uLDUXUfAcf3NTfmLQespTTq1VCcabxybO36Lr37n1gtdCnPUofbeLMNhbiRkUOVEUBdaP1xCdNYTl0nP60la_kRMv3n1M-IXqnmcus943KfsCymGExGyzvFqsfZqxs&jb=333a262468716d773d5f696e646f77712668736f3f55696c666d757126687160753f466b7067646d78, line 965: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/5n_yXqCctYaJdQ-u?85cb55aab00e308e=205bVrGJloKr9ivnOUk8LER7qQPMNGdDkKUl9C5AgP-zXPs5R8qGDp-meT_6b6jCl56zugYq70L71hFi7gz881GL9uLDUXUfAcf3NTfmLQespTTq1VCcabxybO36Lr37n1gtdCnPUofbeLMNhbiRkUOVEUBdaP1xCdNYTl0nP60la_kRMv3n1M-IXqnmcus943KfsCymGExGyzvFqsfZqxs&jb=333a262468716d773d5f696e646f77712668736f3f55696c666d757126687160753f466b7067646d78, line 965: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353459696	Marionette	INFO	Stopped listening on port 49164
+1656353524467	geckodriver	INFO	Listening on 127.0.0.1:49246
+1656353527504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "49247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile8iePJv"
+1656353527805	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49247
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile8iePJv\\search.json.mozlz4", (void 0)))
+1656353529212	Marionette	INFO	Listening on port 49265
+Read port: 49265
+1656353529243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:49247/devtools/browser/0797a503-edc1-418e-9380-5ffd366b62c2
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://src.ebay-us.com/D5rWiYbY1xdmhOJW?7708104b447b75ff=V9PG8h7JCRMysIkoJc2RKdOxX0FbfYfz_N5hzouPiWWX8g4x-q8O0jSK1rruFmsIFBrzkJp9qN6LkbavAXuAm5IeQodLJlhWL_jnWnTenOTE-RE6NzNK1Eb3QwS6vhSk0_j5y4N1HGJSev8cd178pdDi7a76q42CN1M5LNuCd9b7-CeRBbZoLWzU3XhEDl7OkzeBj51O52DCVVR34MzwCPo&jb=333a2626687b67773d5f696e646d7571246a716d3f5f6b6e666d75732e6a7b62753f4669706d6e6d78, line 718: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://src.ebay-us.com/D5rWiYbY1xdmhOJW?7708104b447b75ff=V9PG8h7JCRMysIkoJc2RKdOxX0FbfYfz_N5hzouPiWWX8g4x-q8O0jSK1rruFmsIFBrzkJp9qN6LkbavAXuAm5IeQodLJlhWL_jnWnTenOTE-RE6NzNK1Eb3QwS6vhSk0_j5y4N1HGJSev8cd178pdDi7a76q42CN1M5LNuCd9b7-CeRBbZoLWzU3XhEDl7OkzeBj51O52DCVVR34MzwCPo&jb=333a2626687b67773d5f696e646d7571246a716d3f5f6b6e666d75732e6a7b62753f4669706d6e6d78, line 718: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353537802	Marionette	INFO	Stopped listening on port 49265
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656354411697	geckodriver	INFO	Listening on 127.0.0.1:49625
+1656354414745	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "49626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileJ3yt3R"
+1656354415055	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49626
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileJ3yt3R\\search.json.mozlz4", (void 0)))
+1656354416543	Marionette	INFO	Listening on port 49645
+DevTools listening on ws://localhost:49626/devtools/browser/ce8266b1-7eff-4446-8724-210235a58c9c
+Read port: 49645
+1656354416636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656354443178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656354455980	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://src.ebay-us.com/a1P0tossgDbiBcn1?f50bae322c698c41=URcZd1hAOqICebOWf3dDYk9HVR0IOg-xINgY0BkBHqQTI2kXQfsePcl5PWtyx63MjrMnVg_3qIFtMYw1-BtrvaVqqzq_LZFceYv1tOCYPeAUj2FNhBazlanBqNUrt5W1Gtx8NfV51YF2yEBlh0m9NE2Jv2trBPPIOjXjtMIz5T3746dlBANSUrL5odmgOV4RnpmDqgx2SbvpFK1H_HBpQbs&jb=333a24246a7b6f773d5f696e646d757b2668716f3f576b6c666d7573266a7362753f446b726d666d78, line 701: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354531211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://src.ebay-us.com/a1P0tossgDbiBcn1?f50bae322c698c41=URcZd1hAOqICebOWf3dDYk9HVR0IOg-xINgY0BkBHqQTI2kXQfsePcl5PWtyx63MjrMnVg_3qIFtMYw1-BtrvaVqqzq_LZFceYv1tOCYPeAUj2FNhBazlanBqNUrt5W1Gtx8NfV51YF2yEBlh0m9NE2Jv2trBPPIOjXjtMIz5T3746dlBANSUrL5odmgOV4RnpmDqgx2SbvpFK1H_HBpQbs&jb=333a24246a7b6f773d5f696e646d757b2668716f3f576b6c666d7573266a7362753f446b726d666d78, line 701: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/soJQjVMEWz-AW2aX2cEGIVeY-mqDblLvtbtmS3KyNC4.js line 2 > eval line 3850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/soJQjVMEWz-AW2aX2cEGIVeY-mqDblLvtbtmS3KyNC4.js line 2 > eval line 323 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=Apple+iPhone+11+-+64GB+-+Factory+Unlocked+-+Good+Condition&_sacat=0, line 1: TypeError: r[1] is undefined
+1656354540109	Marionette	INFO	Stopped listening on port 49645
+1656354625697	geckodriver	INFO	Listening on 127.0.0.1:64773
+1656354628714	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "64774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileCAD0xu"
+1656354629021	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64774
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofileCAD0xu\\search.json.mozlz4", (void 0)))
+1656354630511	Marionette	INFO	Listening on port 64795
+DevTools listening on ws://localhost:64774/devtools/browser/2f66ce8c-4c16-4dd1-8634-abde8000880c
+Read port: 64795
+1656354630559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656354654869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656354663125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656354690778	Marionette	INFO	Stopped listening on port 64795
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1656354766038	geckodriver	INFO	Listening on 127.0.0.1:64957
+1656354769067	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "64958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilegT0Lfr"
+1656354769370	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64958
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilegT0Lfr\\search.json.mozlz4", (void 0)))
+1656354770769	Marionette	INFO	Listening on port 64979
+DevTools listening on ws://localhost:64958/devtools/browser/c14951c2-4d46-44e4-a698-9621f9476580
+Read port: 64979
+1656354770839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656354809583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656354817164	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://src.ebay-us.com/CA7oaUlVENL5Ixk1?5dc36496c829f337=fX71HuvomDtbe6LW7tzZPV9jd5Mtxb6codroeHFY8P9q3LG5P-SyPz37IHk6krBtzdnebg1DcHbH-Icw8QX9WLKrjUJYexJbm_UXzztixZSEJhF78-TS3bewl0b-bkWHv7MVb86bc4CgbMihLfTrBv28AhBHDJhgfs7cCF6vbXpCFrTnYB-xXQVoqwycaKXgzUzk3HLjmbJzSiGUa2CbfaI&jb=333a242662736f773d5f696e646d7f712e68736d3d57696c666d757126687362753f44697a65666d78, line 588: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354871340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://src.ebay-us.com/CA7oaUlVENL5Ixk1?5dc36496c829f337=fX71HuvomDtbe6LW7tzZPV9jd5Mtxb6codroeHFY8P9q3LG5P-SyPz37IHk6krBtzdnebg1DcHbH-Icw8QX9WLKrjUJYexJbm_UXzztixZSEJhF78-TS3bewl0b-bkWHv7MVb86bc4CgbMihLfTrBv28AhBHDJhgfs7cCF6vbXpCFrTnYB-xXQVoqwycaKXgzUzk3HLjmbJzSiGUa2CbfaI&jb=333a242662736f773d5f696e646d7f712e68736d3d57696c666d757126687362753f44697a65666d78, line 588: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/knGWWo7aSa0uHovcfrgOqEbwt81bmGsp9O44qLiKOUk.js line 2 > eval line 1181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/soJQjVMEWz-AW2aX2cEGIVeY-mqDblLvtbtmS3KyNC4.js line 2 > eval line 5447 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=Apple+iPhone+11+-+64GB+-+Factory+Unlocked+-+Good+Condition&_sacat=0, line 1: TypeError: r[1] is undefined
+1656354880125	Marionette	INFO	Stopped listening on port 64979
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1656355031892	geckodriver	INFO	Listening on 127.0.0.1:65179
+1656355034914	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile9c9k4w"
+1656355035219	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65180
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile9c9k4w\\search.json.mozlz4", (void 0)))
+1656355036699	Marionette	INFO	Listening on port 65199
+Read port: 65199
+DevTools listening on ws://localhost:65180/devtools/browser/0371f256-4747-4e6c-b57d-245490f91581
+1656355036747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656355058416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656355059727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656355090177	Marionette	INFO	Stopped listening on port 65199
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656355200830	geckodriver	INFO	Listening on 127.0.0.1:65354
+1656355203870	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "65355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile9fQpKO"
+1656355204167	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65355
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofile9fQpKO\\search.json.mozlz4", (void 0)))
+1656355205591	Marionette	INFO	Listening on port 65374
+Read port: 65374
+DevTools listening on ws://localhost:65355/devtools/browser/97171c33-66e2-4c87-a9c5-6402e772b32f
+1656355205627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656355226409	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656355230684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://src.ebay-us.com/FM7etCCj8bG2MvNG?b0e655eddd8a6ea5=MR3U2uXva80G_km-jp8Oi8daXmzjG9eEmNEjwLCNTuXJxe6Iu5q_h8GATIS5wPAXzGt2z8my8QFDs2k7cRYlLzV2jpZxBgZy-mh_PTfBbMY_gxeTrYhhic3gPUaWNCY78HEBDfKB48gjqmNpd53nMfOi0HuXbOiVoNW1Oi7M2D-7or5pmCKLqjZPYPWNPgM6yLxpcB1NoDdhzo4bGXNVyYU&jb=333a24246a736f773d5f696e646d7f71266a736f3f57616e666d75712e6a7362753f446b7265666d78, line 608: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656355289241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://src.ebay-us.com/FM7etCCj8bG2MvNG?b0e655eddd8a6ea5=MR3U2uXva80G_km-jp8Oi8daXmzjG9eEmNEjwLCNTuXJxe6Iu5q_h8GATIS5wPAXzGt2z8my8QFDs2k7cRYlLzV2jpZxBgZy-mh_PTfBbMY_gxeTrYhhic3gPUaWNCY78HEBDfKB48gjqmNpd53nMfOi0HuXbOiVoNW1Oi7M2D-7or5pmCKLqjZPYPWNPgM6yLxpcB1NoDdhzo4bGXNVyYU&jb=333a24246a736f773d5f696e646d7f71266a736f3f57616e666d75712e6a7362753f446b7265666d78, line 608: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/soJQjVMEWz-AW2aX2cEGIVeY-mqDblLvtbtmS3KyNC4.js line 2 > eval line 7217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/soJQjVMEWz-AW2aX2cEGIVeY-mqDblLvtbtmS3KyNC4.js line 2 > eval line 4318 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ebay.com"
+JavaScript error: https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313&_nkw=Apple+iPhone+11+-+64GB+-+Factory+Unlocked+-+Good+Condition&_sacat=0, line 1: TypeError: r[1] is undefined
+1656355298175	Marionette	INFO	Stopped listening on port 65374
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1656355339046	geckodriver	INFO	Listening on 127.0.0.1:49200
+1656355342113	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--width=810" "--height=1080" "--remote-debugging-port" "49201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilekNK82U"
+1656355342443	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49201
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rami\\AppData\\Local\\Temp\\rust_mozprofilekNK82U\\search.json.mozlz4", (void 0)))
+1656355343935	Marionette	INFO	Listening on port 49219
+DevTools listening on ws://localhost:49201/devtools/browser/bfb3fd99-6288-444e-8846-ad655116f984
+Read port: 49219
+1656355343999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+JavaScript error: https://ir.ebaystatic.com/rs/c/inception-df8LT1IB.js, line 6: NetworkError: A network error occurred.
+1656355378065	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656355378976	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656355407725	Marionette	INFO	Stopped listening on port 49219
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
